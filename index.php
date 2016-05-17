@@ -1,6 +1,7 @@
 <html>
     <head>
         <title>Github HTML Project</title>
+        <link rel="stylesheet" href="style.css">
     </head>
     
     
@@ -11,8 +12,9 @@
         
         </header>
         <nav>
-        
-        
+            <a href="about.php">About</a>
+            <a href="clients.php">Clients</a>
+            <a href="history.php">About</a>
         </nav>
         <section>
         
